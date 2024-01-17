@@ -200,7 +200,7 @@ function App() {
         <div className="bg-body-tertiary">
           <div className="container">
             <p className="p-3 m-0 text-center">
-              copyright @2024 Made By Hatem AFLI & Chayma AMAIDI
+              copyright @2024 Made By Hatem AFLI & Chayma AMAIDI & Akrem Njahi
             </p>
           </div>
         </div>
